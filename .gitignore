@@ -1,0 +1,8 @@
+samples/*.*
+*.txt*
+*.conf
+*.log*
+*.pyc
+*.json
+*~
+__*__
